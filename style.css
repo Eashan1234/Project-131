@@ -17,13 +17,14 @@ body{
 
 .anchor_tag
 {
-    margin-top:150px !important;
+    margin-top:75px !important;
     background-color: white;
     font-size:40px;
-    width:180px !important;
+    width:80% !important;
     border-radius:20px;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color:black;
     font-variant:small-caps;
-    text-decoration:underline
+    text-decoration:underline;
+    padding:15px;
 }
