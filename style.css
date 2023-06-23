@@ -1,0 +1,29 @@
+body{
+    background-size:cover;
+}
+
+.heading
+{
+    font-size:50px;
+    width:100%;
+    margin-top:0;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-variant:small-caps;
+    text-decoration:underline overline;
+    border-radius:15px;
+    box-shadow:10px 10px 10px grey;
+    color:black;
+}
+
+.anchor_tag
+{
+    margin-top:150px !important;
+    background-color: white;
+    font-size:40px;
+    width:180px !important;
+    border-radius:20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:black;
+    font-variant:small-caps;
+    text-decoration:underline
+}
